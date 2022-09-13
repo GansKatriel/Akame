@@ -24,34 +24,34 @@ global.APIKeys = {
 
 //—————「 Set Nama Bot & Own 」—————//
 //terserah mau ubah atau nggak
-global.namabot = 'Akame'
-global.namaowner = 'GuaAbuzz'
+global.namabot = 'Khurushi'
+global.namaowner = 'GuaRiellXd'
 
 //—————「 Setting Owner 」—————//
 //terserah mau ubah atau nggak
-global.owner = ['6289636827082']
-global.premium = ['6289636827082']
+global.owner = ['6282146218274']
+global.premium = ['6282146218274']
 
 //—————「 Setting Nomor Donasi 」—————//
 //ubah aja kalau ada yg gapunya kasih tanda -
-global.telkomsel = ['6282171978174']
+global.telkomsel = ['6282146218274']
 global.xl = ['-']
 global.indosat = ['-']
 global.tri = ['6289636827082']
 global.smartfren = ['-']
-global.gopay = ['6289636827082']
-global.dana = ['6289636827082']
+global.gopay = ['-']
+global.dana = ['-']
 global.ovo = ['-']
 global.saweria = ['https://saweria.co/GuaAbuzz']
 
 //—————「 Set Kebutuhan Button 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :)
-global.github = 'https://github.com/Abuzzpoet'
-global.myweb = 'https://tiktok.com/@guaabuzz'
+global.github = 'https://github.com/RielTod1'
+global.myweb = 'https://tiktok.com/@Khurushi'
 
 //—————「 Set Wm 」—————//
 //terserah mau ubah atau nggak
-global.packname = 'GuaAbuzz'
+global.packname = 'GuaRiellXd'
 global.author = 'WhatsApp Bot'
 
 //—————「 Set Nama Session 」—————//
